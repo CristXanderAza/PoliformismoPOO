@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PoliformismoPOO.Domain.Employee">
+    <Position X="6.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAABAAAAAEAAAAAAAAAAAAAAAAAAAgIAAAAAg=</HashCode>
+      <FileName>Domain\Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PoliformismoPOO.Domain.AdministrativeEmployee">
+    <Position X="2.5" Y="6.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\AdministrativeEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PoliformismoPOO.Domain.PermanentTeacher">
+    <Position X="6" Y="6" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\PermanentTeacher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PoliformismoPOO.Domain.TeacherPerHour">
+    <Position X="9.25" Y="3.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAkAIAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\TeacherPerHour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PoliformismoPOO.Domain.PermanentEmpleoyee">
+    <Position X="4.25" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\PermanentEmpleoyee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
